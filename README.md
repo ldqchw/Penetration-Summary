@@ -1,18 +1,14 @@
 # Penetration-Summary
 Penetration test summary
 
-──01-信息收集
 
+──01-信息收集
     ├─01-被动式	
-    
     │  ├─01-常规信息收集	
     │  │      01-被动式信息收集.txt	
     │  │      
-	
     │  └─02-Google Hacker
-	
     │          Google Hacker.txt
-	
     │ 
 	
     ├─02-主动式
