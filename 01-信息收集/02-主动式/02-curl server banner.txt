@@ -1,0 +1,2 @@
+获取服务器的banner
+curl -I www.site.com

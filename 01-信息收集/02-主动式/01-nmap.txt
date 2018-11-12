@@ -1,0 +1,1 @@
+nmap -T4 -sS -sV -O -p- -vv www.site.com

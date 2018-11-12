@@ -1,0 +1,12 @@
+1、被动式信息收集1.0——传统方式
+whois
+dig
+nslookup
+在线查询
+http://who.is
+http://www.kloth.net
+
+2、被动式信息收集1.0——升级方式
+区域传送：
+SMTP头：
+Google dork：

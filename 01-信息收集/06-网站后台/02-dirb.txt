@@ -1,0 +1,1 @@
+dirb "http://www.site.com" /usr/share/dirb/wordlists/big.txt
